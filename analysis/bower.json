@@ -10,7 +10,7 @@
     "ipython"
   ],
   "license": "GPLv3",
-  "homepage": "https://EHT.com/analysis",
+  "homepage": "https://EHT.IO/analysis",
   "main": "jupyter-notebook.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
