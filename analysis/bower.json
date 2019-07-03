@@ -1,7 +1,7 @@
 {
-  "name": "quanonblocks.github.io",
+  "name": "EHT.github.io",
   "version": "0.0.1",
-  "author": "Quanonblocks",
+  "author": "EHT",
   "description": "Analysis - Kernel/Notebook",
   "keywords": [
     "web-component",
@@ -10,7 +10,7 @@
     "ipython"
   ],
   "license": "GPLv3",
-  "homepage": "https://quanonblocks.com/analysis",
+  "homepage": "https://EHT.com/analysis",
   "main": "jupyter-notebook.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",

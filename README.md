@@ -1,3 +1,3 @@
-# Quanonblocks Website
+# EHT Website
 
-https://www.quanonblocks.com
+https://www.EHT.com
